@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Baggi4 aka CodebySte.io
-- 👨🏻‍💻 I’m working with Nextjs, React, and connect my apps with Sanity CMS 
+- 👨🏻‍💻 I’m working with Nextjs, React, and connect my apps with Sanity && Medusa
 - 🪄 Tailwindcss 
 - 🌱 I’m currently learning on Web integration & Developpement..
