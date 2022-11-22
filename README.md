@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ste aka Baggi4
-- 👨🏻‍💻 I’m working with Nextjs, React, and connect my apps with Sanity CMS
+- 👨🏻‍💻 I’m only working on Nextjs
 - 🪄 Tailwindcss 
-- 🌱 I’m currently learning on Web integration & Developpement..
+- 🌱 I’m currently learning on W3b...
