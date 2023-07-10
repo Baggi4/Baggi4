@@ -2,4 +2,4 @@
 - 👨🏻‍💻 less procrastination, more coding and learning; thats the key to success!(they said...)
 - 🪄 Tailwindcss 
 - 🌱 Web3
-![Github_profil-page](https://styles.redditmedia.com/t5_67dv5/styles/profileBanner_stkkh1n535bb1.png)
+![Github_profil-page](https://pbs.twimg.com/profile_banners/2556793152/1689013736/1500x500)
